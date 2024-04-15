@@ -1,0 +1,7 @@
+C:\Users\marcu\source\repos\CursoDeMAUI\Tarefa1\AgendaDeContatos\obj\Debug\AgendaDeContatos.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\CursoDeMAUI\Tarefa1\AgendaDeContatos\obj\Debug\AgendaDeContatos.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\CursoDeMAUI\Tarefa1\AgendaDeContatos\bin\Debug\AgendaDeContatos.exe.config
+C:\Users\marcu\source\repos\CursoDeMAUI\Tarefa1\AgendaDeContatos\bin\Debug\AgendaDeContatos.exe
+C:\Users\marcu\source\repos\CursoDeMAUI\Tarefa1\AgendaDeContatos\bin\Debug\AgendaDeContatos.pdb
+C:\Users\marcu\source\repos\CursoDeMAUI\Tarefa1\AgendaDeContatos\obj\Debug\AgendaDeContatos.exe
+C:\Users\marcu\source\repos\CursoDeMAUI\Tarefa1\AgendaDeContatos\obj\Debug\AgendaDeContatos.pdb
